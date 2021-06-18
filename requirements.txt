@@ -8,3 +8,5 @@ lpips
 ninja 
 gradio
 torchvision
+dlib
+aubio
